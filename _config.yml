@@ -1,11 +1,11 @@
 # Site settings
 author: Kayla Kingston
-title: 
+title: Kayla Codes
 header-img: img/home-bg.png
 email: kkingston09@gmail.com
 copyright_name: Kayla Kingston
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The trials and errors of learning to speak computer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kkingston
